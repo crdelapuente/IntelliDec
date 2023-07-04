@@ -1,4 +1,4 @@
-# IntelliDec: Plataforma de Toma de Decisiones
+# IntelliDec: Más que una plataforma de toma de decisiones
 
 <p align="center">
   <img src="./public/imagenes/LogoDoradoSinFondo.png" alt="Logo 1" width="200" style="vertical-align: middle;"/>
