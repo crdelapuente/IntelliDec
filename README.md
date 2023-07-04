@@ -2,10 +2,8 @@
 
 <p align="center">
   <img src="./public/imagenes/LogoDoradoSinFondo.png" alt="Logo 1" width="200"/>
-  <img src="./public/imagenes/NombreDoradoSinFondo.png" alt="Logo 2" width="300"/>
+  <img src="./public/imagenes/NombreDoradoSinFondo.png" alt="Logo 2" width="500"/>
 </p>
-
-![IntelliDec Logo](./public/imagenes/NombreDoradoSinFondo.png)
 
 IntelliDec es una plataforma avanzada de toma de decisiones en grupo para entornos con un número alto de alternativas construida con Laravel. Permite a los usuarios crear y administrar procesos de toma de decisiones de manera eficiente y eficaz, utilizando una variedad de criterios y obteniendo resultados basados en las preferencias de los usuarios.
 
